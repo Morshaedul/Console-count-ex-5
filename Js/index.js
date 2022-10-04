@@ -1,0 +1,2 @@
+console.count("");
+console.count("");
